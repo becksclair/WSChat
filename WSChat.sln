@@ -3,12 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.809.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSChat", "WSChat\WSChat.csproj", "{0565FCFD-6696-4D0D-96E7-0D9206C4050B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSChat", "WSChat\WSChat.csproj", "{0565FCFD-6696-4D0D-96E7-0D9206C4050B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSChat.Tests", "WSChat.Tests\WSChat.Tests.csproj", "{C9FFCC5C-BB23-4F6F-9C87-4658116B0564}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSChat.Tests", "WSChat.Tests\WSChat.Tests.csproj", "{C9FFCC5C-BB23-4F6F-9C87-4658116B0564}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{42E45ADE-B6D2-455D-896F-FC2B1CB1EDC8}"
 	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
 		README.md = README.md
 	EndProjectSection
 EndProject
